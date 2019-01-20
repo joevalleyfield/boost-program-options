@@ -2,6 +2,8 @@
 
 #include "command_line_argument_parser.hpp"
 
+#include <iostream>
+
 using namespace std;
 
 class application {
